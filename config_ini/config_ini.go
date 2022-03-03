@@ -1,5 +1,6 @@
 /*
 https://github.com/san035/go_config_ini
+go get github.com/san035/go_config_ini
 */
 package config_ini
 
