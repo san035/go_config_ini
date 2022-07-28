@@ -9,3 +9,6 @@ Simply use `go get`:
 To update later:
 
     go get -u github.com/san035/go_config_ini
+
+# Example
+[Example](https://github.com/san035/go_config_ini/example)
